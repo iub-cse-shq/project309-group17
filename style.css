@@ -1,0 +1,307 @@
+.carousel-item {
+  height: 100vh;
+  background: no-repeat center center scroll;
+  background-size: cover;
+
+}
+.fixed-top {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+.container, .container-lg, .container-md, .container-sm, .container-xl {
+  max-width: 1300px;
+}
+
+
+.menu_area ul li {
+  display: inline;
+}
+.menu_area ul li a {
+  display: inline-block;
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  padding: 30px 15px;
+      font-family: 'Secular One', sans-serif;
+  
+}
+.menu_area {
+  text-align: right;
+
+}
+
+
+.menu_area :hover {
+  color: #B79D5F;
+  transition: 0.50s;
+}
+
+.logo_area h4 {
+  color: #B79D5F;
+}
+
+.logo_area p {
+  color: #B79D5F;
+}
+
+
+
+
+
+
+
+
+
+.our_menu {
+  text-align: center;
+  padding-top: 35px;
+  margin-top: 0px;
+  background-color: black;
+  padding-bottom: 20px;
+}
+
+.our_menu h3 {
+  font-size: 48px;
+  text-transform: uppercase;
+  color: ;
+  color: white;
+  font-family: 'Secular One', sans-serif;
+}
+
+
+.our_menu p {
+  font-size: 33px;
+  color: white;
+  font-family: 'Italianno', cursive;
+}
+
+
+
+
+
+
+
+
+.jamuna_dhanmondi_style p {
+  text-align: center;
+  text-decoration: none;
+  text-transform: unset;
+  overflow: hidden;
+  font-size: 15px;
+  background-color: black;
+}
+
+
+.jamuna_dhanmondi_style a{
+  color: white;
+}
+
+.jamuna_dhanmondi_style p {
+  margin-top: 0;
+  margin-bottom: 0rem;
+}
+
+.jamuna_dhanmondi_style a:hover {
+  color: #B79D5F;
+  transition: 0.30s;
+  font-size: 16px;
+  
+}
+
+.item_menu_bar {
+  padding: 10px 10px;
+}
+
+
+.menu_list_price1 {
+  float: left;
+  width: 50%;
+}
+
+.menu_list_price0 h1 {
+  text-align: center;
+  padding-bottom: 35px;
+  color: black;
+}
+
+.menu_list_price0 h3 {
+  color: black;
+}
+
+.menu_list_price0 h6 {
+  color: black;
+}
+
+
+.menu_list_price2 {
+  float: left;
+  width: 50%;
+}
+
+.menu_list_price0 h4 {
+  color: #B79D5F;
+}
+
+.menu_list_price0 h3:hover {
+  color: #B79D5F;
+  transition: 0.50s;
+}
+
+
+.gallery_area_total_area{
+  background-color: black;
+
+}
+
+.gallery_area_total_area h3{
+  color: white;
+}
+
+.gallery_area_total_area {
+  text-align: center;
+  padding: 70px 10px;
+}
+
+.gallery_area_total_area h3 {
+  font-size: 48px;
+  font-family: 'Anton', sans-serif;
+}
+
+.single_gallery img {
+  width: 100%;
+  border-radius: 20px;
+  transition: all 0.5s;
+}
+
+.single_gallery:hover img {
+  transform: scale(1.06);
+}
+
+.single_gallery {
+  float: left;
+  width: 25%;
+  padding: 6px;
+}
+
+.gallery_area h2 {
+  text-align: right;
+  font-size: 17px;
+  color: goldenrod;
+  font-family: 'Italianno', cursive;
+}
+
+
+
+
+
+
+.contact_part_writen {
+  float: left;
+  width: 33%;
+  padding-left: 30px;
+}
+
+.contact_part_writen h2, h3, h1 {
+  color: #B79D5F;
+}
+
+.contact_part_area {
+  background-color: #191919;
+}
+
+.contact_part_area {
+  margin-bottom: 0px;
+  padding-bottom: 17px;
+  padding-top: 71px;
+  margin-top: -8px;
+}
+
+.contact_part_writen p{
+  color: white;
+}
+
+.contact_part_writen2 {
+  float: left;
+  width: 33%;
+}
+
+.contact_part_writen3 {
+  float: left;
+  width: 33%;
+  
+}
+
+.end_part {
+  background-color: black;
+  text-align: center;
+  padding: 50px;
+}
+
+.end_part_write p, p, h6{
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.form_design h2{
+  color: bisque;
+  font-size: 52px;
+  font-family: 'Anton', sans-serif;
+}
+.form_design p {
+  color: bisque;
+  font-size: 17px;
+  font-family: 'Sansita Swashed', cursive;
+  
+}
+
+.form_design {
+  background-image: url(img/bg_8.jpg);
+  padding: 70px 30%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+}
+
+.form_design input, .form_design textarea {
+  background: transparent;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 10px;
+  border: 1px solid white;
+  border-radius: 15px;
+  color: white;
+}
+
+.form_design input[type="submit"] {
+  background: transparent;
+  width: 36%;
+  margin-left: 5%;
+  color: #fff;
+  font-size: 17px;
+  font-weight: 600;
+  border-radius: 14px;
+  border: 1px solid bisque;
+  transition: all 1s;
+}
+
+
+.form_design input[type='submit']:hover{
+  background: #B79D5F;
+
+}
+
